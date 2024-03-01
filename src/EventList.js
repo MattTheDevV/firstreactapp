@@ -65,7 +65,7 @@ const eventList = [
     },
     {
         "id": "g",
-        "date": "2024-09-05",
+        "date": "2024-09-15",
         "name": "Unity Parade",
         "description": "A colorful parade bringing together diverse communities to celebrate unity, diversity, and inclusion through music, dance, and art.",
         "willAttend": [],
